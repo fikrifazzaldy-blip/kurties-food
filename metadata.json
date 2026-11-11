@@ -1,0 +1,6 @@
+{
+  "name": "Kurties Food - Layanan Pemesanan Katering Gandrungmangu Cilacap",
+  "description": "Sistem pemesanan katering online Kurties Food Gandrungmangu Cilacap. Menyediakan nasi kotak, prasmanan hajatan, tumpeng, dan snack box dengan layanan pesan via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
