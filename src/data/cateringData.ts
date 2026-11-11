@@ -1,11 +1,16 @@
 import { MenuItem } from '../types/catering';
+import kurtiesLogo from '../assets/images/kurties_food_logo_1794384279217.jpg';
+import heroImg from '../assets/images/hero_catering_feast_1794383555052.jpg';
+import nasiKotakImg from '../assets/images/nasi_kotak_premium_1794383555354.jpg';
+import tumpengImg from '../assets/images/tumpeng_syukuran_1794383556692.jpg';
+import prasmananImg from '../assets/images/prasmanan_hajatan_1794383557310.jpg';
 
-// Image paths from batch generation
-export const KURTIES_LOGO = '/src/assets/images/kurties_food_logo_1794384279217.jpg';
-export const HERO_IMAGE = '/src/assets/images/hero_catering_feast_1794383555052.jpg';
-export const NASI_KOTAK_IMAGE = '/src/assets/images/nasi_kotak_premium_1794383555354.jpg';
-export const TUMPENG_IMAGE = '/src/assets/images/tumpeng_syukuran_1794383556692.jpg';
-export const PRASMANAN_IMAGE = '/src/assets/images/prasmanan_hajatan_1794383557310.jpg';
+// Image exports bundled by Vite for Vercel production
+export const KURTIES_LOGO = kurtiesLogo;
+export const HERO_IMAGE = heroImg;
+export const NASI_KOTAK_IMAGE = nasiKotakImg;
+export const TUMPENG_IMAGE = tumpengImg;
+export const PRASMANAN_IMAGE = prasmananImg;
 
 export const CATERING_CONTACT = {
   name: 'Kurties Food Katering',
